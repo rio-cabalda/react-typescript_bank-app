@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import {ActionType} from '../action-types'
 
 const getLocalStorage = () => {
